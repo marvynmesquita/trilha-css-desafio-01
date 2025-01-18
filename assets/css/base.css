@@ -1,7 +1,7 @@
 .banner{
     width: 100vw;
     height: 60rem;
-    padding-top: 6rem;
+    padding-top: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,19 +11,19 @@
 
 .banner-content{
     color: white;
-    width: 60rem;
+    width: 600px;
     margin: auto;
     text-align: center;
 }
 
 .banner .logo{
     background-color: rgba(0, 0, 0, .2);
-    height: 26rem;
-    width: 26rem;
+    height: 260px;
+    width: 260px;
     margin: auto;
     border-radius: 50%;
-    padding: 1.6rem;
-    margin-bottom: 1.6rem;
+    padding: 16px;
+    margin-bottom: 16px;
 }
 
 .banner h1{
